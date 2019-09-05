@@ -13,20 +13,9 @@ AWS, GCPあたりも基本は押さえておきたい。
 
 ***
 
-- 2019年９月１日～
-
-Progate Python I~V
-
-Progate Git
-
-Progate HTML&CSS 初級編、中級編
-
-- 2019年９月４日～５日
-
-Progate HTML&CSS 上級編
-
-- 2019年９月５日
-
-Progate HTML&CSS FlexBox編
-
-Progate
+- Progate Python I~V　（2019年９月１日～
+- Progate Git
+- Progate HTML&CSS 初級編、中級編 ～2019年９月３日）
+- Progate HTML&CSS 上級編 (2019年９月４日～５日）
+- Progate HTML&CSS FlexBox編 (2019年９月５日）
+- Progate HTML&CSS 道場コース初級編　（2019年９月５日～
