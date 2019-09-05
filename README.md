@@ -17,3 +17,6 @@ Progate HTML&CSS 初級編、中級編
 - 2019年９月４日～
 
 Progate HTML&CSS 上級編
+
+- 2019年９月５日～
+Progate HTML&CSS FlexBox編
