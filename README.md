@@ -7,9 +7,13 @@
 
 
 - 2019年９月１日～
+
 Progate Python I~V
+
 Progate Git
+
 Progate HTML&CSS 初級編、中級編
 
 - 2019年９月５日～
+
 Progate HTML&CSS 上級編
