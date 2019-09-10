@@ -18,4 +18,6 @@ AWS, GCPあたりも基本は押さえておきたい。
 - Progate HTML&CSS 初級編、中級編 ～2019年９月３日）
 - Progate HTML&CSS 上級編 (2019年９月４日～５日）
 - Progate HTML&CSS FlexBox編 (2019年９月５日）
-- Progate HTML&CSS 道場コース初級編　（2019年９月５日～
+- Progate HTML&CSS 道場コース初級編　（2019年９月５日～８日）
+- Progate Ruby I~IV (2019年9月8~9日)
+- Progate Ruby V (2019年９月１０日～）
