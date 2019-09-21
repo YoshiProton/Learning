@@ -26,3 +26,6 @@ AWS, GCPあたりも基本は押さえておきたい。
 - Progate Ruby on Rails
   - RubyonRails I (2019年９月１０日～１１日)
   - RubyonRails II (2019年９月１２日～１３日）
+  - RubyonRails III
+  - RubyonRails IV (～2019年９月21日)
+  - RubyonRails V (2019年９月21日～
