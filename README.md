@@ -29,3 +29,5 @@ AWS, GCPあたりも基本は押さえておきたい。
   - RubyonRails III
   - RubyonRails IV (～2019年９月21日)
   - RubyonRails V (2019年９月21日～
+  - RubyonRails VI (～2019年９月24日）
+  - RubyonRails VII (2019年９月25日～)
