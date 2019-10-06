@@ -13,22 +13,25 @@ AWS, GCPあたりも基本は押さえておきたい。
 
 ***
 
-- Progate Python I~V　（2019年９月１日～
+- Progate Python I~V　（2019年9月1日～
 - Progate Git
 - Progate HTML&CSS
-  - HTML&CSS 初級編、中級編 ～2019年９月３日）
-  - HTML&CSS 上級編 (2019年９月４日～５日）
-  - HTML&CSS FlexBox編 (2019年９月５日）
-  - HTML&CSS 道場コース初級編　（2019年９月５日～８日）
+  - HTML&CSS 初級編、中級編 ～2019年9月3日）
+  - HTML&CSS 上級編 (2019年9月4日～5日）
+  - HTML&CSS FlexBox編 (2019年9月5日）
+  - HTML&CSS 道場コース初級編　（2019年9月5日～8日）
 - Progate Ruby
-  - Ruby I-IV (2019年９月８～９日)
-  - Ruby V (2019年９月１０日）
+  - Ruby I-IV (2019年9月8～9日)
+  - Ruby V (2019年9月10日）
 - Progate Ruby on Rails
-  - RubyonRails I (2019年９月１０日～１１日)
-  - RubyonRails II (2019年９月１２日～１３日）
+  - RubyonRails I (2019年9月10日～11日)
+  - RubyonRails II (2019年9月12日～13日）
   - RubyonRails III
-  - RubyonRails IV (～2019年９月21日)
-  - RubyonRails V (2019年９月21日～
-  - RubyonRails VI (～2019年９月24日）
-  - RubyonRails VII (2019年９月25日～)
-  - RubyonRails VIII (～2019年９月30日）
+  - RubyonRails IV (～2019年9月21日)
+  - RubyonRails V (2019年9月21日～
+  - RubyonRails VI (～2019年9月24日）
+  - RubyonRails VII (2019年9月25日～)
+  - RubyonRails VIII (～2019年9月30日）
+  - RubyonRails IX
+  - RubyonRails X（～2019年10月5日）
+  - RubyonRails XI (2019年10月5日)
