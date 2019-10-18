@@ -35,9 +35,18 @@ AWS, GCPあたりも基本は押さえておきたい。
   - RubyonRails IX
   - RubyonRails X（～2019年10月5日）
   - RubyonRails XI (2019年10月5日)
+- Swift 
+  - Swift I~III　(2019年10月6日～9日)
 - Javascript
   - Javascript I (2019年10月6日～)
   - Javascript II (2019年10月9日~2019年10月13日)
-  
+  - Javascript III
+  - Javascript IV
+  - Javascript V
+  - Javascript VI
+  - Javascript VII　(～2019年10月17日)
+- jQuery
+  - jQuery 初級 (2019年10月17日～10月18日)
+  - jQuery 中級 (2019年10月...)
   
   
